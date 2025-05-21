@@ -1,0 +1,17 @@
+minhhong-co-khi/
+├── index.html
+├── product-detail.html
+├── admin.html
+├── data.json
+├── README.md
+├── .gitignore
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── images/
+    ├── logo.png
+    ├── hero-bg.jpg
+    ├── product1.jpg
+    ├── product2.jpg
+    └── product3.jpg
